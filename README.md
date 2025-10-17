@@ -25,7 +25,7 @@ https://dacon.io/competitions/official/236562/codeshare
 
 # README.md
 
-```markdown
+
 # 🎯 고객 지원 필요도 예측 (Support Needs Prediction)
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
@@ -66,7 +66,7 @@ PyCaret AutoML로 상위 모델 선정 → KMeans 클러스터링 파생변수 �
    ```bash
    conda create -n alpaco_new python=3.10
    conda activate alpaco_new
-   ```
+
 
 2. **의존성 설치** (호환성 위해 joblib 고정):
    ```bash
